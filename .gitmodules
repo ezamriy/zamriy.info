@@ -1,0 +1,4 @@
+[submodule "themes/researcher"]
+	path = themes/researcher
+	url = https://github.com/ezamriy/hugo-researcher.git
+        branch = ezamriy_tweaks
